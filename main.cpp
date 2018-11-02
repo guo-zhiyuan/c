@@ -24,4 +24,5 @@ int main(void)
     printf("max = %d\n",max);
     printf("smax = %d\n",smax);
     return 0;
+	ÄãºÃ£»
 }
