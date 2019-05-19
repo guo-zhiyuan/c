@@ -25,5 +25,7 @@ int main(void)
     printf("smax = %d\n",smax);
     return 0;
 	你好；
+	
+
 }
 我第一次用版本控制
